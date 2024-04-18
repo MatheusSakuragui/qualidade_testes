@@ -1,0 +1,11 @@
+ #Execute o seguinte comando para instalar as dependências do projeto:
+
+    ```shell
+    npm install
+    ```
+
+#Após a instalação das dependências, execute o seguinte comando para executar os testes:
+
+    ```shell
+    npx jest
+    ```
